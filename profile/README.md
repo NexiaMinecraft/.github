@@ -1,15 +1,15 @@
 # Nexia
 
-👋 | Nexia is a minecraft server, which aims to improve minecraft combat.
+👋 | Nexia is a CTS minecraft server, which implements the Combat Test Snapshots on the latest version.
 
 ## Info
 
 #### Minecraft server...
 
-🇪🇺 | **EU** IP: eu.nexia.dev
+🇪🇺 | **EU** IP: *No EU Server at the moment*
 
-🇺🇸 | **NA** IP: na.nexia.dev
+🇺🇸 | **NA** IP: nexia.gg
 
 #### Discord server...
 
-❓️ | **Invite**: https://discord.gg/ZmxawW9nBv
+❓️ | **Invite**: https://discord.gg/uUC3zCZ2S7
